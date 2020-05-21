@@ -1,0 +1,5 @@
+ini adalah file txt yang dibuat dengan Python
+ini baris kedua
+ini baris ketiga
+ini baris keempat
+baris ini ditambahkan dengan mode append
